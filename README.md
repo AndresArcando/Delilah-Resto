@@ -1,7 +1,7 @@
 # Delilah-Resto
 
 ** REST API DELILAH RESTO**
-A REST API for managing orders, products and users. Originally designed for restaurants, but you can use it however you want. Go nuts!
+A REST API for managing orders, products and users. Originally designed for restaurants, but you can use it however you want.
 
 This is an API where you can allow users to register and login, upload products and manage orders.
 
